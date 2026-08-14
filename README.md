@@ -169,11 +169,11 @@ Identify customer segments and services associated with higher churn so retentio
 
 ### ⭐ Highlighted
 
-- ☁️ **[Oracle Cloud Infrastructure 2025 Certified Data Science Professional](CERTIFICATIONS.md)**
-- 🐍 **[Python for Data Science — IBM](CERTIFICATIONS.md)**
-- 📊 **[Introduction to Career Skills in Data Analytics — LinkedIn Learning](CERTIFICATIONS.md)**
-- 📈 **[Introduction to Power BI — DataFlair](CERTIFICATIONS.md)**
-- 🗂️ **[Master Data Management for Beginners — TCS iON](CERTIFICATIONS.md)**
+- ☁️ **[Oracle Cloud Infrastructure 2025 Certified Data Science Professional](assets/certifications/OCI%20data%20science%20Certificate%20by%20oracle%20university.pdf)**
+- 🐍 **[Python for Data Science — IBM](assets/certifications/python%20for%20data%20science%20by%20IBM.pdf)**
+- 📊 **[Introduction to Career Skills in Data Analytics — LinkedIn Learning](assets/certifications/Introduction%20to%20Career%20Skills%20in%20Data%20Analytics%20by%20linkedin.pdf)**
+- 📈 **[Introduction to Power BI — DataFlair](assets/certifications/Introduction-to-Power-BI%20by%20Data%20flair.pdf)**
+- 🗂️ **[Master Data Management for Beginners — TCS iON](assets/certifications/master%20of%20data%20management_tcs.pdf)**
 
 ### 🪪 Microsoft Learn
 

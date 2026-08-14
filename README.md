@@ -4,6 +4,8 @@
 
 ### 🎓 B.Sc. Data Science Student | 📊 Aspiring Data Scientist & Data Analyst
 
+<img src="./assets/profile-intro.svg" width="700" alt="Data Science, Data Analytics and Machine Learning" />
+
 **Python · SQL · Data Analytics · Power BI · Machine Learning**
 
 <a href="https://www.linkedin.com/in/rutuu0208/"><img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

@@ -80,76 +80,78 @@ I enjoy taking a problem through the complete data workflow:
 
 ## 🚀 Featured Projects
 
+> **Real project evidence. Real screenshots. No fabricated metrics.**
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Telco Customer Churn Analysis
+<a href="https://github.com/rutuu0228/BlinkIT-Sales-Dashboard"><img src="https://raw.githubusercontent.com/rutuu0228/BlinkIT-Sales-Dashboard/main/BlinkIT%20dashboard%20screenshot.png" width="100%" alt="BlinkIT Sales Dashboard" /></a>
 
-**Python · Pandas · EDA · Seaborn**
+### 🛒 BlinkIT Sales Intelligence
 
-Explores telecom customer behavior to identify **churn drivers, high-risk segments and retention opportunities**.
+**Power BI · Business Intelligence · Data Visualization**
 
-**Highlights**
-- Customer churn analysis
-- Data cleaning & EDA
-- Segment-level insights
-- Business recommendations
+**Business Problem**  
+Transform grocery sales data into an interactive view of **sales performance, product categories, outlet characteristics and business KPIs**.
 
-<a href="https://github.com/rutuu0228/Telco-Churn-Analysis"><img src="https://img.shields.io/badge/🔎%20VIEW%20PROJECT-38BDF8?style=for-the-badge&logoColor=white" /></a>
+**Key Focus**  
+Sales performance · Product categories · Outlet size/type · Location · Inventory & sales monitoring
+
+<a href="https://github.com/rutuu0228/BlinkIT-Sales-Dashboard"><img src="https://img.shields.io/badge/📊%20VIEW%20PROJECT-38BDF8?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 BlinkIT Sales Dashboard
+<a href="https://github.com/rutuu0228/Ecommerce-Sales-Dashboard"><img src="https://raw.githubusercontent.com/rutuu0228/Ecommerce-Sales-Dashboard/main/Ecommerce%20Sales%20Dashboard%20Screenshot.png" width="100%" alt="E-commerce Sales Dashboard" /></a>
 
-**Power BI · BI · Data Visualization**
+### 🛍️ E-commerce Sales Analytics
 
-Interactive dashboard analyzing **grocery sales, product categories, outlet performance and business KPIs**.
+**Power BI · Analytics · KPI Design**
 
-**Highlights**
-- Sales KPI monitoring
-- Product/category analysis
-- Outlet performance
-- Interactive business dashboard
+**Business Problem**  
+Turn e-commerce sales data into an interactive reporting solution for **revenue, orders, products, customers, regions and time-based performance**.
 
-<a href="https://github.com/rutuu0228/BlinkIT-Sales-Dashboard"><img src="https://img.shields.io/badge/📊%20VIEW%20DASHBOARD-0EA5E9?style=for-the-badge&logoColor=white" /></a>
+**Key Focus**  
+Revenue · Orders · Quantity · Product performance · Regional trends · Customer analysis
+
+<a href="https://github.com/rutuu0228/Ecommerce-Sales-Dashboard"><img src="https://img.shields.io/badge/📈%20VIEW%20PROJECT-0EA5E9?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ E-commerce Sales Dashboard
+<a href="https://github.com/rutuu0228/HR-Analytics-Dashboard"><img src="https://raw.githubusercontent.com/rutuu0228/HR-Analytics-Dashboard/main/HR%20Analytics%20Dashboard%20Screenshot.png" width="100%" alt="HR Analytics Dashboard" /></a>
 
-**Power BI · Analytics · KPI Design**
+### 👥 HR Analytics Intelligence
 
-Business intelligence dashboard exploring **sales, revenue, products, customers, regions and time-based trends**.
+**Power BI · HR Analytics · Business Storytelling**
 
-**Highlights**
-- Revenue & sales analysis
-- Product performance
-- Customer & regional views
-- Time-based trends
+**Business Problem**  
+Transform employee data into decision-support views covering **workforce composition, demographics, performance and attrition patterns**.
 
-<a href="https://github.com/rutuu0228/Ecommerce-Sales-Dashboard"><img src="https://img.shields.io/badge/📈%20VIEW%20PROJECT-0284C7?style=for-the-badge&logoColor=white" /></a>
+**Key Focus**  
+Headcount · Attrition · Departments · Job roles · Demographics · Workforce planning
+
+<a href="https://github.com/rutuu0228/HR-Analytics-Dashboard"><img src="https://img.shields.io/badge/👥%20VIEW%20PROJECT-0284C7?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 👥 HR Analytics Dashboard
+<a href="https://github.com/rutuu0228/Telco-Churn-Analysis"><img src="https://raw.githubusercontent.com/rutuu0228/Telco-Churn-Analysis/main/all%20plots%202.png" width="100%" alt="Telco Customer Churn Analysis" /></a>
 
-**Power BI · HR Analytics · Storytelling**
+### 📊 Telco Customer Churn Analysis
 
-Interactive HR reporting focused on **workforce composition, employee segments, attrition patterns and HR KPIs**.
+**Python · Pandas · Matplotlib · Seaborn · EDA**
 
-**Highlights**
-- Workforce analysis
-- Attrition insights
-- HR KPI monitoring
-- Interactive reporting
+**Business Problem**  
+Identify customer segments and services associated with higher churn so retention efforts can target the right customers.
 
-<a href="https://github.com/rutuu0228/HR-Analytics-Dashboard"><img src="https://img.shields.io/badge/👥%20VIEW%20PROJECT-38BDF8?style=for-the-badge&logoColor=white" /></a>
+**Verified Insight**  
+**26.54%** of customers churned. Higher-risk patterns were associated with **month-to-month contracts, short tenure, lack of Online Security/Tech Support and electronic-check payments**.
+
+<a href="https://github.com/rutuu0228/Telco-Churn-Analysis"><img src="https://img.shields.io/badge/🔎%20VIEW%20PROJECT-38BDF8?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 </tr>

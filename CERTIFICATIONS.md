@@ -9,8 +9,6 @@
 
 </div>
 
-> **Certificate-link policy:** every **VIEW CERTIFICATE** button below opens the actual certificate file uploaded to this repository. Where a genuine issuer-specific verification URL is available, a separate **VERIFY** link is provided. I do not substitute generic issuer homepages for certificate links.
-
 ---
 
 ## ⭐ Featured Credentials
@@ -142,15 +140,7 @@ Certificate Verification Number: `3492384224032296`
 
 ---
 
-## 📌 Credential Policy
 
-I distinguish between:
-
-- 🏆 **Professional certifications** — formal industry credentials
-- 🎓 **Course certificates** — successful completion of learning programs
-- 🪪 **Digital badges / achievements** — platform-recognized learning milestones
-- 💼 **Workshops / simulations** — practical learning experiences
-- 🏅 **Participation certificates** — participation or event recognition
 
 
 ---

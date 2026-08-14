@@ -18,7 +18,6 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-
 <a href="assets/certifications/OCI%20data%20science%20Certificate%20by%20oracle%20university.pdf"><img src="assets/certifications/previews/oci%20data%20science%20certificate%20by%20oracle%20university.jpg" width="430" alt="Oracle OCI Data Science Professional Certificate" /></a>
 
 ### ☁️ Oracle Cloud Infrastructure
@@ -27,10 +26,8 @@
 Credential ID: `103033249OCI25DSOCP`
 
 [📜 **VIEW CERTIFICATE**](assets/certifications/OCI%20data%20science%20Certificate%20by%20oracle%20university.pdf)
-
 </td>
 <td width="50%" valign="top" align="center">
-
 <a href="assets/certifications/python%20for%20data%20science%20by%20IBM.pdf"><img src="assets/certifications/previews/python%20for%20data%20science%20by%20ibm.jpg" width="430" alt="IBM Python for Data Science Certificate" /></a>
 
 ### 🐍 Python for Data Science
@@ -39,12 +36,10 @@ Credential ID: `103033249OCI25DSOCP`
 **Focus:** Python fundamentals and applications for data science.
 
 [📜 **VIEW CERTIFICATE**](assets/certifications/python%20for%20data%20science%20by%20IBM.pdf)
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
-
 <a href="assets/certifications/Introduction%20to%20Career%20Skills%20in%20Data%20Analytics%20by%20linkedin.pdf"><img src="assets/certifications/previews/introduction%20to%20career%20skills%20in%20data%20analytics%20by%20linkedin.jpg" width="430" alt="LinkedIn Learning Data Analytics Certificate" /></a>
 
 ### 📊 Career Skills in Data Analytics
@@ -53,10 +48,8 @@ Certificate ID: `e6aba757993976729d7b8dbc3d19890a6ada6df9a22ff089b2d165ce44cad4a
 
 [📜 **VIEW CERTIFICATE**](assets/certifications/Introduction%20to%20Career%20Skills%20in%20Data%20Analytics%20by%20linkedin.pdf)  
 [✓ **VERIFY**](https://www.linkedin.com/learning/certificates/e6aba757993976729d7b8dbc3d19890a6ada6df9a22ff089b2d165ce44cad4a8)
-
 </td>
 <td width="50%" valign="top" align="center">
-
 <a href="assets/certifications/Introduction-to-Power-BI%20by%20Data%20flair.pdf"><img src="assets/certifications/previews/introduction-to-power-bi%20by%20data%20flair.jpg" width="430" alt="DataFlair Power BI Certificate" /></a>
 
 ### 📈 Introduction to Power BI
@@ -65,7 +58,6 @@ Certificate ID: `7F11259FF9-7CB14C32B0-7591B16224`
 
 [📜 **VIEW CERTIFICATE**](assets/certifications/Introduction-to-Power-BI%20by%20Data%20flair.pdf)  
 [✓ **VERIFY**](https://data-flair.training/verify/7F11259FF9-7CB14C32B0-7591B16224/)
-
 </td>
 </tr>
 </table>
@@ -193,12 +185,12 @@ Certificate ID: `7F11259FF9-7CB14C32B0-7591B16224`
 [✓ **VERIFY**](https://www.udemy.com/certificate/UC-65c4f7da-cfb3-458f-b4df-4ae57170a05c/)
 </td>
 <td width="50%" valign="top" align="center">
-<a href="assets/certifications/Smart%20English%20Basics%20for%20Professionals%20by%20Great%20Learning.pdf"><img src="assets/certifications/previews/smart%20english%20basics%20for%20professionals%20by%20great%20learning.jpg" width="400" alt="Great Learning Smart English" /></a>
+<a href="assets/certifications/previews/smart%20english%20basics%20for%20professionals%20by%20great%20learning.jpg"><img src="assets/certifications/previews/smart%20english%20basics%20for%20professionals%20by%20great%20learning.jpg" width="400" alt="Great Learning Smart English" /></a>
 
 ### Smart English Basics for Professionals
 **Great Learning Academy**
 
-[📜 **VIEW CERTIFICATE**](assets/certifications/Smart%20English%20Basics%20for%20Professionals%20by%20Great%20Learning.pdf)
+[🖼️ **VIEW CERTIFICATE IMAGE**](assets/certifications/previews/smart%20english%20basics%20for%20professionals%20by%20great%20learning.jpg)
 </td>
 </tr>
 <tr>
@@ -227,14 +219,12 @@ Certificate ID: `7F11259FF9-7CB14C32B0-7591B16224`
 ## ☁️ Oracle Badge
 
 <div align="center">
-
 <a href="assets/certifications/previews/oci%20data%20sci%20oracle%20badge.jpg"><img src="assets/certifications/previews/oci%20data%20sci%20oracle%20badge.jpg" width="260" alt="Oracle OCI Data Science Badge" /></a>
 
 ### Oracle OCI Data Science Badge
 **Oracle University**
 
 [🏅 **VIEW BADGE**](assets/certifications/previews/oci%20data%20sci%20oracle%20badge.jpg)
-
 </div>
 
 ---

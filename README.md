@@ -6,12 +6,12 @@
 
 **Python · SQL · Data Analytics · Power BI · Machine Learning**
 
-<a href="https://www.linkedin.com/in/rutuu0208/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rutuu0228@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/rutuu0228"><img src="https://img.shields.io/badge/GitHub-rutuu0228-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements"><img src="https://img.shields.io/badge/Microsoft%20Learn-Badges%20%26%20Achievements-5E5E5E?style=for-the-badge&logo=microsoft" /></a>
+<a href="https://www.linkedin.com/in/rutuu0208/"><img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rutuu0228@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/rutuu0228"><img src="https://img.shields.io/badge/GitHub-rutuu0228-334155?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements"><img src="https://img.shields.io/badge/Microsoft%20Learn-Badges%20%26%20Achievements-38BDF8?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rutuu0228&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=rutuu0228&style=flat-square&color=38BDF8)
 
 </div>
 
@@ -35,18 +35,18 @@ I enjoy taking a problem through the complete data workflow:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0EA5E9?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0284C7?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0369A1?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-38BDF8?style=for-the-badge&logo=powerbi&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0EA5E9?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0284C7?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-38BDF8?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0EA5E9?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0284C7?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-38BDF8?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -70,7 +70,7 @@ Explores telecom customer behavior to identify **churn drivers, high-risk segmen
 - Segment-level insights
 - Business recommendations
 
-<a href="https://github.com/rutuu0228/Telco-Churn-Analysis"><img src="https://img.shields.io/badge/🔎%20View%20Project-181717?style=for-the-badge" /></a>
+<a href="https://github.com/rutuu0228/Telco-Churn-Analysis"><img src="https://img.shields.io/badge/🔎%20VIEW%20PROJECT-38BDF8?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -87,7 +87,7 @@ Interactive dashboard analyzing **grocery sales, product categories, outlet perf
 - Outlet performance
 - Interactive business dashboard
 
-<a href="https://github.com/rutuu0228/BlinkIT-Sales-Dashboard"><img src="https://img.shields.io/badge/📊%20View%20Dashboard-0078D4?style=for-the-badge" /></a>
+<a href="https://github.com/rutuu0228/BlinkIT-Sales-Dashboard"><img src="https://img.shields.io/badge/📊%20VIEW%20DASHBOARD-0EA5E9?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -106,7 +106,7 @@ Business intelligence dashboard exploring **sales, revenue, products, customers,
 - Customer & regional views
 - Time-based trends
 
-<a href="https://github.com/rutuu0228/Ecommerce-Sales-Dashboard"><img src="https://img.shields.io/badge/📈%20View%20Project-7B1FA2?style=for-the-badge" /></a>
+<a href="https://github.com/rutuu0228/Ecommerce-Sales-Dashboard"><img src="https://img.shields.io/badge/📈%20VIEW%20PROJECT-0284C7?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -123,7 +123,7 @@ Interactive HR reporting focused on **workforce composition, employee segments, 
 - HR KPI monitoring
 - Interactive reporting
 
-<a href="https://github.com/rutuu0228/HR-Analytics-Dashboard"><img src="https://img.shields.io/badge/👥%20View%20Project-2E7D32?style=for-the-badge" /></a>
+<a href="https://github.com/rutuu0228/HR-Analytics-Dashboard"><img src="https://img.shields.io/badge/👥%20VIEW%20PROJECT-38BDF8?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -131,7 +131,7 @@ Interactive HR reporting focused on **workforce composition, employee segments, 
 
 <div align="center">
 
-<a href="https://github.com/rutuu0228?tab=repositories"><img src="https://img.shields.io/badge/🚀%20Explore%20All%20Repositories-181717?style=for-the-badge" /></a>
+<a href="https://github.com/rutuu0228?tab=repositories"><img src="https://img.shields.io/badge/🚀%20EXPLORE%20ALL%20REPOSITORIES-0EA5E9?style=for-the-badge&logoColor=white" /></a>
 
 </div>
 
@@ -151,14 +151,12 @@ Interactive HR reporting focused on **workforce composition, employee segments, 
 
 <div align="center">
 
-[![Microsoft Learn Achievements](https://img.shields.io/badge/🏅%20View%20Badges%20%26%20Achievements-Microsoft%20Learn-0078D4?style=for-the-badge)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements)
-[![Microsoft Learn Credentials](https://img.shields.io/badge/🎓%20View%20Credentials-Microsoft%20Learn-5E5E5E?style=for-the-badge)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/credentials)
+[![Microsoft Learn Achievements](https://img.shields.io/badge/🏅%20VIEW%20BADGES%20%26%20ACHIEVEMENTS-38BDF8?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements)
+[![Microsoft Learn Credentials](https://img.shields.io/badge/🎓%20VIEW%20CREDENTIALS-0EA5E9?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/credentials)
 
 </div>
 
 📚 **More certificates, course completions, workshops and program credentials:** [Open the full Certifications & Credentials page →](CERTIFICATIONS.md)
-
-> I keep professional certifications, course completions, workshops, participation certificates and learning badges clearly separated so that credentials are represented accurately.
 
 ---
 
@@ -235,10 +233,10 @@ My focus is to demonstrate:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rutuja%20Dhumal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutuu0208/)
-[![Email](https://img.shields.io/badge/Email-rutuu0228%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutuu0228@gmail.com)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-5E5E5E?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/)
-[![GitHub](https://img.shields.io/badge/GitHub-rutuu0228-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutuu0228)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rutuja%20Dhumal-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutuu0208/)
+[![Email](https://img.shields.io/badge/Email-rutuu0228%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutuu0228@gmail.com)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-0284C7?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/)
+[![GitHub](https://img.shields.io/badge/GitHub-rutuu0228-334155?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutuu0228)
 
 </div>
 

@@ -8,6 +8,8 @@
 
 <a href="https://www.linkedin.com/in/rutuu0208/">LinkedIn</a> · <a href="mailto:rutuu0228@gmail.com">Email</a> · <a href="https://github.com/rutuu0228">GitHub</a>
 
+<a href="https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements">Microsoft Learn Badges</a> · <a href="https://github.com/rutuu0228/rutuu0228/blob/main/CERTIFICATIONS.md">Certifications & Credentials</a>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rutuu0228&color=blue&style=flat-square)
 
 </div>
@@ -98,9 +100,37 @@ HR analytics dashboard focused on **workforce composition, employee segments, at
 
 ## 🏆 Certifications & Credentials
 
-> **Coming next:** I’m building a verified certification section with the exact certificate name, issuing organization, completion year and credential/certificate link.
->
-> I will only add certifications that you have actually earned — no inflated or unverified credentials.
+### ☁️ Highlighted
+
+- **Oracle Cloud Infrastructure 2025 Certified Data Science Professional** — Oracle University — 2025
+- **Python for Data Science** — IBM
+- **Introduction to Career Skills in Data Analytics** — LinkedIn Learning — 2025
+- **Introduction to Power BI** — DataFlair — 2025
+- **Master Data Management for Beginners** — TCS iON — 2025
+
+### 🧠 Data, AI & Technical Learning
+
+- Natural Language Processing Fundamentals — Infosys Springboard
+- Natural Language Processing in Practice — Infosys Springboard
+- Basics of Python — Infosys Springboard
+- Microsoft AI Skills Fest — Microsoft Learn
+- ChatGPT & AI in Microsoft Office — Skill Nation
+
+### 📊 Business Intelligence & Professional Skills
+
+- Data Analytics using Power BI Workshop — Newton School
+- Basics of Business Communication — Infosys Springboard
+- Email Writing Skills — Infosys Springboard
+- Communication Skills for Beginners — Udemy
+- Smart English Basics for Professionals — Great Learning Academy
+
+### 🌐 SARTHI Digital Employability Enhancement Program
+
+Completed Modules 1–4 covering **English/Communication & Soft Skills, Basic IT Skills, Web Designing and Advanced Web Designing**.
+
+➡️ **[View all certificates, dates, IDs and credential details →](https://github.com/rutuu0228/rutuu0228/blob/main/CERTIFICATIONS.md)**
+
+➡️ **[View my Microsoft Learn badges & achievements →](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements)**
 
 ---
 
@@ -157,6 +187,7 @@ Industry-Ready Data Professional
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rutuja%20Dhumal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutuu0208/)
 [![Email](https://img.shields.io/badge/Email-rutuu0228%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutuu0228@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rutuu0228-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutuu0228)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Badges-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements)
 
 </div>
 

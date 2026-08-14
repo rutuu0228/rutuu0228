@@ -31,6 +31,17 @@ I enjoy taking a problem through the complete data workflow:
 
 ---
 
+## 🎓 Education
+
+**Bachelor's Degree — Data Science**  
+**College of Computer Science and Information Technology (COCSIT)**  
+**SRTMUN University, Nanded**  
+📅 **2024 – 2027**
+
+**Relevant focus:** Data Science · Python · SQL · Statistics · Data Analysis · Machine Learning · Data Visualization
+
+---
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -49,6 +60,21 @@ I enjoy taking a problem through the complete data workflow:
 ![VS Code](https://img.shields.io/badge/VS%20Code-38BDF8?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+---
+
+## 🧑‍💻 Coding & Data Profiles
+
+<div align="center">
+
+<a href="https://www.kaggle.com/rutuja0228"><img src="https://img.shields.io/badge/Kaggle-Profile-38BDF8?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://leetcode.com/u/uAL6ww4Jx/"><img src="https://img.shields.io/badge/LeetCode-Profile-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/rutuu0228"><img src="https://img.shields.io/badge/HackerRank-Profile-0284C7?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/rutuu0228"><img src="https://img.shields.io/badge/CodeChef-Profile-334155?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+
+</div>
+
+> Coding-platform statistics will be added only after they can be verified from the respective public profiles.
 
 ---
 

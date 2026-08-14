@@ -2,12 +2,14 @@
 
 <div align="center">
 
-### A curated collection of my actual certificates, badges and learning milestones
+### Verified learning, credentials and professional development
 
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Badges%20%26%20Achievements-38BDF8?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements)
-[![Microsoft Credentials](https://img.shields.io/badge/Microsoft-Credentials-0EA5E9?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/credentials)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Badges%20%26%20Achievements-38BDF8?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements)
+[![Microsoft Credentials](https://img.shields.io/badge/Microsoft-Credentials-0EA5E9?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/credentials)
 
 </div>
+
+> **Recruiter note:** Every `VIEW CERTIFICATE` button below opens the actual certificate file stored in this repository. Where a genuine issuer-specific verification URL is available, it is provided separately as `VERIFY`. No generic issuer homepage is presented as certificate verification.
 
 ---
 
@@ -22,9 +24,9 @@
 **Oracle University** · October 30, 2025  
 Credential ID: `103033249OCI25DSOCP`
 
-<a href="assets/certifications/OCI%20data%20science%20Certificate%20by%20oracle%20university.pdf"><img src="https://img.shields.io/badge/📜%20VIEW%20CERTIFICATE-38BDF8?style=for-the-badge" /></a>
+**Focus:** Data Science on Oracle Cloud Infrastructure
 
-<a href="assets/certifications/OCI%20data%20science%20Certificate%20by%20oracle%20university.pdf"><img src="https://img.shields.io/badge/🔗%20OPEN%20PDF-0EA5E9?style=for-the-badge" /></a>
+<a href="assets/certifications/OCI%20data%20science%20Certificate%20by%20oracle%20university.pdf"><img src="https://img.shields.io/badge/📜%20VIEW%20CERTIFICATE-38BDF8?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -32,9 +34,9 @@ Credential ID: `103033249OCI25DSOCP`
 ### 🐍 Python for Data Science
 **IBM** · Course Completion
 
-A foundational credential focused on Python applications for data science.
+**Focus:** Python fundamentals and applications for data science.
 
-<a href="assets/certifications/Python%20for%20Data%20Science%20by%20IBM.pdf"><img src="https://img.shields.io/badge/📜%20VIEW%20CERTIFICATE-38BDF8?style=for-the-badge" /></a>
+<a href="assets/certifications/Python%20for%20Data%20Science%20by%20IBM.pdf"><img src="https://img.shields.io/badge/📜%20VIEW%20CERTIFICATE-38BDF8?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -45,9 +47,8 @@ A foundational credential focused on Python applications for data science.
 **LinkedIn Learning** · January 16, 2025  
 Certificate ID: `e6aba757993976729d7b8dbc3d19890a6ada6df9a22ff089b2d165ce44cad4a8`
 
-<a href="assets/certifications/Introduction%20to%20Career%20Skills%20in%20Data%20Analytics%20by%20linkedin.pdf"><img src="https://img.shields.io/badge/📜%20VIEW%20CERTIFICATE-38BDF8?style=for-the-badge" /></a>
-
-<a href="https://www.linkedin.com/learning/certificates/e6aba757993976729d7b8dbc3d19890a6ada6df9a22ff089b2d165ce44cad4a8"><img src="https://img.shields.io/badge/✓%20VERIFY-0EA5E9?style=for-the-badge" /></a>
+<a href="assets/certifications/Introduction%20to%20Career%20Skills%20in%20Data%20Analytics%20by%20linkedin.pdf"><img src="https://img.shields.io/badge/📜%20VIEW%20CERTIFICATE-38BDF8?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/learning/certificates/e6aba757993976729d7b8dbc3d19890a6ada6df9a22ff089b2d165ce44cad4a8"><img src="https://img.shields.io/badge/✓%20VERIFY-0EA5E9?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -56,9 +57,8 @@ Certificate ID: `e6aba757993976729d7b8dbc3d19890a6ada6df9a22ff089b2d165ce44cad4a
 **DataFlair** · February 4, 2025  
 Certificate ID: `7F11259FF9-7CB14C32B0-7591B16224`
 
-<a href="assets/certifications/Introduction-to-Power-BI%20by%20Data%20flair.pdf"><img src="https://img.shields.io/badge/📜%20VIEW%20CERTIFICATE-38BDF8?style=for-the-badge" /></a>
-
-<a href="https://data-flair.training/verify/7F11259FF9-7CB14C32B0-7591B16224/"><img src="https://img.shields.io/badge/✓%20VERIFY-0EA5E9?style=for-the-badge" /></a>
+<a href="assets/certifications/Introduction-to-Power-BI%20by%20Data%20flair.pdf"><img src="https://img.shields.io/badge/📜%20VIEW%20CERTIFICATE-38BDF8?style=for-the-badge&logoColor=white" /></a>
+<a href="https://data-flair.training/verify/7F11259FF9-7CB14C32B0-7591B16224/"><img src="https://img.shields.io/badge/✓%20VERIFY-0EA5E9?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -68,35 +68,35 @@ Certificate ID: `7F11259FF9-7CB14C32B0-7591B16224`
 
 ## 🧠 Data, AI & Programming
 
-| Credential | Issuer | Direct certificate |
+| Credential | Issuer | Evidence |
 |---|---|---|
-| Natural Language Processing Fundamentals | Infosys Springboard | [📜 View Certificate](assets/certifications/Natural%20Language%20Processing%20Fundamentals%20by%20Infosys.pdf) |
-| Natural Language Processing in Practice | Infosys Springboard | [📜 View Certificate](assets/certifications/Natural%20Language%20Processing%20in%20Practice%20by%20infosys.pdf) |
-| Basics of Python | Infosys Springboard | [📜 View Certificate](assets/certifications/Basics%20of%20python%20by%20infosys.pdf) |
-| Microsoft AI Skills Fest | Microsoft | [📜 View Certificate](assets/certifications/Microsoft%20AI%20festival.pdf) · [🏅 Badges](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements) |
-| ChatGPT & AI in Microsoft Office | Skill Nation | [📜 View Certificate](assets/certifications/Rutuja%20Dhumal_ChatGPT%20%26%20AI%20in%20Microsoft%20Office.pdf) · [✓ Verify](https://verify.skillnation.ai/certificate?certificate_id=685232e71c77f73cfa4ac9bb) |
-| Master Data Management for Beginners | TCS iON | [📜 View Certificate](assets/certifications/Master%20Data%20Management%20for%20Beginners%20by%20TCS%20iON.pdf) |
+| Natural Language Processing Fundamentals | Infosys Springboard | [📜 VIEW CERTIFICATE](assets/certifications/Natural%20Language%20Processing%20Fundamentals%20by%20Infosys.pdf) |
+| Natural Language Processing in Practice | Infosys Springboard | [📜 VIEW CERTIFICATE](assets/certifications/Natural%20Language%20Processing%20in%20Practice%20by%20infosys.pdf) |
+| Basics of Python | Infosys Springboard | [📜 VIEW CERTIFICATE](assets/certifications/Basics%20of%20python%20by%20infosys.pdf) |
+| Microsoft AI Skills Fest | Microsoft | [📜 VIEW CERTIFICATE](assets/certifications/Microsoft%20AI%20festival.pdf) · [🏅 VIEW BADGES](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements) |
+| ChatGPT & AI in Microsoft Office | Skill Nation | [📜 VIEW CERTIFICATE](assets/certifications/Rutuja%20Dhumal_ChatGPT%20%26%20AI%20in%20Microsoft%20Office.pdf) · [✓ VERIFY](https://verify.skillnation.ai/certificate?certificate_id=685232e71c77f73cfa4ac9bb) |
+| Master Data Management for Beginners | TCS iON | [📜 VIEW CERTIFICATE](assets/certifications/Master%20Data%20Management%20for%20Beginners%20by%20TCS%20iON.pdf) |
 
 ---
 
 ## 📊 Business Intelligence & Power BI
 
-| Credential | Issuer | Direct certificate |
+| Credential | Issuer | Evidence |
 |---|---|---|
-| Data Analytics using Power BI Workshop | Newton School | [📜 View Certificate](assets/certifications/Power%20BI%20Workshop%20certificate%20by%20Newton%20School.pdf) |
-| Introduction to Power BI | DataFlair | [📜 View Certificate](assets/certifications/Introduction-to-Power-BI%20by%20Data%20flair.pdf) · [✓ Verify](https://data-flair.training/verify/7F11259FF9-7CB14C32B0-7591B16224/) |
+| Data Analytics using Power BI Workshop | Newton School | [📜 VIEW CERTIFICATE](assets/certifications/Power%20BI%20Workshop%20certificate%20by%20Newton%20School.pdf) |
+| Introduction to Power BI | DataFlair | [📜 VIEW CERTIFICATE](assets/certifications/Introduction-to-Power-BI%20by%20Data%20flair.pdf) · [✓ VERIFY](https://data-flair.training/verify/7F11259FF9-7CB14C32B0-7591B16224/) |
 
 ---
 
 ## 💬 Communication & Professional Skills
 
-| Credential | Issuer | Direct certificate |
+| Credential | Issuer | Evidence |
 |---|---|---|
-| Basics of Business Communication | Infosys Springboard | [📜 View Certificate](assets/certifications/Basics%20of%20Business%20Comunication%20infosys%20certificate.pdf) |
-| Email Writing Skills | Infosys Springboard | [📜 View Certificate](assets/certifications/Email%20Writing%20Skills%20by%20Infosys.pdf) |
-| Saving Time by Setting Goals | Infosys Springboard | [📜 View Certificate](assets/certifications/Saving%20Time%20by%20Setting%20Goals.pdf) |
-| Communication Skills for Beginners | Udemy | [📜 View Certificate](assets/certifications/Communication%20Skills%20for%20Beginners%20by%20Udemy.pdf) · [✓ Verify](https://www.udemy.com/certificate/UC-65c4f7da-cfb3-458f-b4df-4ae57170a05c/) |
-| Smart English Basics for Professionals | Great Learning Academy | [📜 View Certificate](assets/certifications/Smart%20English%20Basics%20for%20Professionals%20by%20Great%20Learning.pdf) |
+| Basics of Business Communication | Infosys Springboard | [📜 VIEW CERTIFICATE](assets/certifications/Basics%20of%20Business%20Comunication%20infosys%20certificate.pdf) |
+| Email Writing Skills | Infosys Springboard | [📜 VIEW CERTIFICATE](assets/certifications/Email%20Writing%20Skills%20by%20Infosys.pdf) |
+| Saving Time by Setting Goals | Infosys Springboard | [📜 VIEW CERTIFICATE](assets/certifications/Saving%20Time%20by%20Setting%20Goals.pdf) |
+| Communication Skills for Beginners | Udemy | [📜 VIEW CERTIFICATE](assets/certifications/Communication%20Skills%20for%20Beginners%20by%20Udemy.pdf) · [✓ VERIFY](https://www.udemy.com/certificate/UC-65c4f7da-cfb3-458f-b4df-4ae57170a05c/) |
+| Smart English Basics for Professionals | Great Learning Academy | [📜 VIEW CERTIFICATE](assets/certifications/Smart%20English%20Basics%20for%20Professionals%20by%20Great%20Learning.pdf) |
 
 ---
 
@@ -104,12 +104,12 @@ Certificate ID: `7F11259FF9-7CB14C32B0-7591B16224`
 
 **Digital Employability Enhancement Program**
 
-| Module | Score | Completed | Certificate |
-|---|---:|---:|---|
-| English Language, Communication & Soft Skills | **93%** | Jul 12, 2024 | [📜 View Certificate](assets/certifications/Module%201%20Certificate.pdf) |
-| Basic Information Technology Skills | **86%** | Sep 3, 2024 | [📜 View Certificate](assets/certifications/Module%202%20Certificate.pdf) |
-| Web Designing | **70%** | Mar 11, 2025 | [📜 View Certificate](assets/certifications/Module%203%20Certificate.pdf) |
-| Advanced Web Designing | **80%** | Mar 11, 2025 | [📜 View Certificate](assets/certifications/Module%204%20Certificate.pdf) |
+| Module | Score | Completed | Evidence |
+|---|---:|---|---|
+| English Language, Communication & Soft Skills | **93%** | Jul 12, 2024 | [📜 VIEW CERTIFICATE](assets/certifications/Module%201%20Certificate.pdf) |
+| Basic Information Technology Skills | **86%** | Sep 3, 2024 | [📜 VIEW CERTIFICATE](assets/certifications/Module%202%20Certificate.pdf) |
+| Web Designing | **70%** | Mar 11, 2025 | [📜 VIEW CERTIFICATE](assets/certifications/Module%203%20Certificate.pdf) |
+| Advanced Web Designing | **80%** | Mar 11, 2025 | [📜 VIEW CERTIFICATE](assets/certifications/Module%204%20Certificate.pdf) |
 
 Certificate Verification Number: `3492384224032296`
 
@@ -121,9 +121,8 @@ Certificate Verification Number: `3492384224032296`
 
 <div align="center">
 
-[![View Microsoft Learn Achievements](https://img.shields.io/badge/🏅%20VIEW%20BADGES%20%26%20ACHIEVEMENTS-38BDF8?style=for-the-badge)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements)
-
-[![View Microsoft Credentials](https://img.shields.io/badge/🎓%20VIEW%20CREDENTIALS-0EA5E9?style=for-the-badge)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/credentials)
+[![🏅 View Achievements](https://img.shields.io/badge/🏅%20VIEW%20BADGES%20%26%20ACHIEVEMENTS-38BDF8?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements)
+[![🎓 View Credentials](https://img.shields.io/badge/🎓%20VIEW%20CREDENTIALS-0EA5E9?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/credentials)
 
 </div>
 
@@ -133,20 +132,26 @@ Certificate Verification Number: `3492384224032296`
 
 ## 🏅 Other Learning & Participation
 
-| Achievement | Direct certificate |
+| Achievement | Evidence |
 |---|---|
-| Nestlé E-learning 2026 — Resilience | [📜 View Certificate](assets/certifications/Nestle%20game%20certificate.pdf) |
-| Tata Crucible Corporate Quiz 2025 | [📜 View Certificate](assets/certifications/Tata%20Crucible%20Corporate%20Quiz%202025.pdf) · [✓ Open Unstop Certificate](https://unstop.com/certificate-preview/83a60137-ebbe-40c1-9979-df7f071d847f) |
+| Nestlé E-learning 2026 — Resilience | [📜 VIEW CERTIFICATE](assets/certifications/Nestle%20game%20certificate.pdf) |
+| Tata Crucible Corporate Quiz 2025 | [📜 VIEW CERTIFICATE](assets/certifications/Tata%20Crucible%20Corporate%20Quiz%202025.pdf) · [✓ OPEN UNSOTP CERTIFICATE](https://unstop.com/certificate-preview/83a60137-ebbe-40c1-9979-df7f071d847f) |
 
 ---
 
+## 📌 Evidence Policy
 
-
+- **VIEW CERTIFICATE** → opens the original certificate file stored in this repository.
+- **VERIFY** → used only when a genuine credential-specific verification URL is available.
+- **VIEW BADGES** → opens the user's Microsoft Learn achievements rather than a generic Microsoft page.
+- No fabricated certificate IDs, rankings, scores, verification URLs or achievements are added.
 
 ---
 
 <div align="center">
 
-**🔗 Back to my GitHub profile:** [@rutuu0228](https://github.com/rutuu0228)
+### 🚀 Learn · Build · Analyze · Solve · Improve
+
+**[← Back to GitHub Profile](README.md)**
 
 </div>

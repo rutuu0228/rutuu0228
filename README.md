@@ -117,8 +117,9 @@ My goal is to gradually transform my GitHub from a collection of student work in
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
+- 💼 LinkedIn: [linkedin.com/in/rutuu0208](https://www.linkedin.com/in/rutuu0208/)
 - 🐙 GitHub: [@rutuu0228](https://github.com/rutuu0228)
+- 📧 Email: [rutuu0228@gmail.com](mailto:rutuu0228@gmail.com)
 
 ---
 

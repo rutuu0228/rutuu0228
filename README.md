@@ -17,7 +17,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## ⟡ About Me
 
 I'm a **B.Sc. Data Science student** focused on building strong foundations in **Python, SQL, statistics, data analysis, visualization, machine learning and business intelligence**.
 
@@ -42,7 +42,7 @@ I enjoy taking a problem through the complete data workflow:
 
 ---
 
-## 🧰 Tech Stack
+## ◈ Tech Stack
 
 <div align="center">
 
@@ -63,7 +63,7 @@ I enjoy taking a problem through the complete data workflow:
 
 ---
 
-## 🧑‍💻 Coding & Data Profiles
+## ⌁ Coding & Data Profiles
 
 <div align="center">
 
@@ -78,7 +78,7 @@ I enjoy taking a problem through the complete data workflow:
 
 ---
 
-## 🚀 Featured Projects
+## ⟡ Featured Projects
 
 > **Real project evidence. Real screenshots. No fabricated metrics.**
 
@@ -98,7 +98,7 @@ Transform grocery sales data into an interactive view of **sales performance, pr
 **Key Focus**  
 Sales performance · Product categories · Outlet size/type · Location · Inventory & sales monitoring
 
-<a href="https://github.com/rutuu0228/BlinkIT-Sales-Dashboard"><img src="https://img.shields.io/badge/📊%20VIEW%20PROJECT-38BDF8?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/rutuu0228/BlinkIT-Sales-Dashboard"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-38BDF8?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -115,7 +115,7 @@ Turn e-commerce sales data into an interactive reporting solution for **revenue,
 **Key Focus**  
 Revenue · Orders · Quantity · Product performance · Regional trends · Customer analysis
 
-<a href="https://github.com/rutuu0228/Ecommerce-Sales-Dashboard"><img src="https://img.shields.io/badge/📈%20VIEW%20PROJECT-0EA5E9?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/rutuu0228/Ecommerce-Sales-Dashboard"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-0EA5E9?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -134,7 +134,7 @@ Transform employee data into decision-support views covering **workforce composi
 **Key Focus**  
 Headcount · Attrition · Departments · Job roles · Demographics · Workforce planning
 
-<a href="https://github.com/rutuu0228/HR-Analytics-Dashboard"><img src="https://img.shields.io/badge/👥%20VIEW%20PROJECT-0284C7?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/rutuu0228/HR-Analytics-Dashboard"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-0284C7?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -151,7 +151,7 @@ Identify customer segments and services associated with higher churn so retentio
 **Verified Insight**  
 **26.54%** of customers churned. Higher-risk patterns were associated with **month-to-month contracts, short tenure, lack of Online Security/Tech Support and electronic-check payments**.
 
-<a href="https://github.com/rutuu0228/Telco-Churn-Analysis"><img src="https://img.shields.io/badge/🔎%20VIEW%20PROJECT-38BDF8?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/rutuu0228/Telco-Churn-Analysis"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-38BDF8?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -159,13 +159,13 @@ Identify customer segments and services associated with higher churn so retentio
 
 <div align="center">
 
-<a href="https://github.com/rutuu0228?tab=repositories"><img src="https://img.shields.io/badge/🚀%20EXPLORE%20ALL%20REPOSITORIES-0EA5E9?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/rutuu0228?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES%20%E2%9F%B6-0EA5E9?style=for-the-badge&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🏆 Certifications & Credentials
+## ✦ Certifications & Credentials
 
 ### ⭐ Highlighted
 
@@ -180,8 +180,8 @@ Identify customer segments and services associated with higher churn so retentio
 
 <div align="center">
 
-[![Microsoft Learn Achievements](https://img.shields.io/badge/🏅%20VIEW%20BADGES%20%26%20ACHIEVEMENTS-38BDF8?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements)
-[![Microsoft Learn Credentials](https://img.shields.io/badge/🎓%20VIEW%20CREDENTIALS-0EA5E9?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/credentials)
+[![Microsoft Learn Achievements](https://img.shields.io/badge/VIEW%20BADGES%20%26%20ACHIEVEMENTS-38BDF8?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements)
+[![Microsoft Learn Credentials](https://img.shields.io/badge/VIEW%20CREDENTIALS-0EA5E9?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/credentials)
 
 </div>
 
@@ -206,7 +206,7 @@ Identify customer segments and services associated with higher churn so retentio
 
 ---
 
-## 📚 Currently Learning
+## ⌁ Currently Learning
 
 - 🐍 Advanced Python for Data Science
 - 🗄️ SQL for Data Analytics
@@ -220,7 +220,7 @@ Identify customer segments and services associated with higher churn so retentio
 
 ---
 
-## 🗺️ Data Science Roadmap
+## ◇ Data Science Roadmap
 
 ```text
 Python + SQL
@@ -242,7 +242,7 @@ Industry-Ready Data Professional
 
 ---
 
-## 🌱 What I'm Building
+## ✦ What I'm Building
 
 I believe the strongest portfolio is built through **consistent hands-on work**.
 

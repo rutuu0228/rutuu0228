@@ -76,7 +76,7 @@ I enjoy taking a problem through the complete data workflow:
 
 </div>
 
-> Coding-platform statistics will be added only after they can be verified from the respective public profiles.
+
 
 ---
 

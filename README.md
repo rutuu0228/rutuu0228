@@ -173,6 +173,7 @@ Identify customer segments and services associated with higher churn so retentio
 - 🐍 **[Python for Data Science — IBM](assets/certifications/python%20for%20data%20science%20by%20IBM.pdf)**
 - 📊 **[Introduction to Career Skills in Data Analytics — LinkedIn Learning](assets/certifications/Introduction%20to%20Career%20Skills%20in%20Data%20Analytics%20by%20linkedin.pdf)**
 - 📈 **[Introduction to Power BI — DataFlair](assets/certifications/Introduction-to-Power-BI%20by%20Data%20flair.pdf)**
+- 🧠 **[Natural Language Processing Fundamentals — Infosys Springboard](assets/certifications/Natural%20Language%20Processing%20Fundamentals%20by%20Infosys.pdf)**
 - 🗂️ **[Master Data Management for Beginners — TCS iON](assets/certifications/master%20of%20data%20management_tcs.pdf)**
 
 ### 🪪 Microsoft Learn

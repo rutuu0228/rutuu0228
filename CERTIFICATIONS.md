@@ -152,7 +152,6 @@ I distinguish between:
 - 💼 **Workshops / simulations** — practical learning experiences
 - 🏅 **Participation certificates** — participation or event recognition
 
-**Every certificate card links to the actual certificate file stored in this repository.** External verification links are added only where a genuine credential-specific URL is available.
 
 ---
 

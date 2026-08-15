@@ -76,8 +76,6 @@ I enjoy taking a problem through the complete data workflow:
 
 </div>
 
-
-
 ---
 
 ## ⟡ Featured Projects
@@ -157,13 +155,35 @@ Identify customer segments and services associated with higher churn so retentio
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rutuu0228/Students-Score-Analysis"><img src="https://raw.githubusercontent.com/rutuu0228/Students-Score-Analysis/main/Student%20score%20by%20ParentEducation.png" width="100%" alt="Student Performance Analysis" /></a>
+
+### 🎓 Student Performance Analysis
+
+**Python · Pandas · Matplotlib · Seaborn · EDA**
+
+**Project Focus**  
+Explore academic performance through **score distributions, parental education, lunch type, test preparation and relationships between Reading, Writing and Mathematics scores**.
+
+**Key Insight**  
+Students who completed test preparation showed better performance, while Reading and Writing scores showed a strong positive relationship.
+
+<a href="https://github.com/rutuu0228/Students-Score-Analysis"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-0EA5E9?style=for-the-badge&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⌁ More Work
+
+This portfolio highlights selected projects with the strongest visual and analytical evidence. Additional work is available in the repository list, including ongoing projects that are intentionally kept outside this featured section while they are still under development.
+
+<a href="https://github.com/rutuu0228?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES%20%E2%9F%B6-334155?style=for-the-badge&logoColor=white" /></a>
+
+</td>
+</tr>
 </table>
-
-<div align="center">
-
-<a href="https://github.com/rutuu0228?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES%20%E2%9F%B6-0EA5E9?style=for-the-badge&logoColor=white" /></a>
-
-</div>
 
 ---
 

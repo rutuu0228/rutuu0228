@@ -4,9 +4,9 @@
 
 ### 🎓 B.Sc. Data Science Student | 📊 Aspiring Data Scientist & Data Analyst
 
-<a href="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing"><img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing" alt="Data Science, Data Analytics, Machine Learning and Natural Language Processing" /></a>
+<a href="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing"><img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing" alt="Data Science, Data Analytics, Machine Learning and Natural Language Processing, Cloud Computing" /></a>
 
-**Python · SQL · Data Analytics · Power BI · Machine Learning**
+**Python · SQL · Data Analytics · Power BI · Machine Learning · Natural Language Processing · Cloud Computing**
 
 <a href="https://www.linkedin.com/in/rutuu0208/"><img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rutuu0228@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" /></a>

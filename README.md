@@ -211,7 +211,7 @@ This portfolio highlights selected projects with the strongest visual and analyt
 
 <div align="center">
 
-[![Oracle Learning](https://img.shields.io/badge/OPEN%20ORACLE%20LEARNING-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://mylearn.oracle.com/ou/dashboard)
+[![Oracle Learning](https://img.shields.io/badge/OPEN%20ORACLE%20LEARNING-38BDF8?style=for-the-badge&logo=oracle&logoColor=white)](https://mylearn.oracle.com/ou/dashboard)
 
 </div>
 

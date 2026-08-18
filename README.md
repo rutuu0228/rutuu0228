@@ -4,7 +4,7 @@
 
 ### 🎓 B.Sc. Data Science Student | 📊 Aspiring Data Scientist & Data Analyst
 
-<a href="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing"><img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing" alt="Data Science, Data Analytics, Machine Learning and Natural Language Processing, Cloud Computing" /></a>
+<a href="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing"><img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing;Cloud+Computing" alt="Data Science, Data Analytics, Machine Learning, Natural Language Processing and Cloud Computing" /></a>
 
 **Python · SQL · Data Analytics · Power BI · Machine Learning · Natural Language Processing · Cloud Computing**
 

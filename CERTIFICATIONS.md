@@ -6,6 +6,7 @@
 
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Badges%20%26%20Achievements-38BDF8?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/achievements)
 [![Microsoft Credentials](https://img.shields.io/badge/Microsoft-Credentials-0EA5E9?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/credentials)
+[![Oracle Learning](https://img.shields.io/badge/Oracle%20Learning-38BDF8?style=for-the-badge&logo=oracle&logoColor=white)](https://mylearn.oracle.com/ou/dashboard)
 
 </div>
 

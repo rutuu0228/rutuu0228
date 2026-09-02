@@ -78,6 +78,21 @@ I enjoy taking a problem through the complete data workflow:
 
 ---
 
+## 📄 Resume
+
+<div align="center">
+
+### ✦ Recruiter-Ready Resume
+
+**1-Page Resume · Data Science / Data Analytics Focus**
+
+<a href="assets/resume/Rutuja_Dhumal_Resume_1_page_updated-on_2_9_26_pdf.pdf"><img src="https://img.shields.io/badge/VIEW%20RESUME%20%E2%9F%B6-38BDF8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
+<a href="assets/resume/Rutuja_Dhumal_Resume_1_page_updated-on_2_9_26_wordfile.docx"><img src="https://img.shields.io/badge/DOWNLOAD%20WORD%20VERSION%20%E2%9F%B6-0EA5E9?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>
+
+</div>
+
+---
+
 ## ⟡ Featured Projects
 
 <table>
@@ -214,21 +229,6 @@ Completed practical work involving **Excel-based analysis, equality-table invest
 
 <a href="https://github.com/rutuu0228/Internships/tree/main/Deloitte-Virtual-Internship"><img src="https://img.shields.io/badge/VIEW%20INTERNSHIP%20REPOSITORY%20%E2%9F%B6-38BDF8?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/rutuu0228/Internships/blob/main/Deloitte-Virtual-Internship/Certificate/Deloitte%20Data%20Analytics%20Job%20Simulation%20intership%20certificate.pdf"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE%20%E2%9F%B6-0EA5E9?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
-
----
-
-## 📄 Resume
-
-<div align="center">
-
-### ✦ Recruiter-Ready Resume
-
-**1-Page Resume · Data Science / Data Analytics Focus**
-
-<a href="assets/resume/Rutuja_Dhumal_Resume_1_page_updated-on_2_9_26_pdf.pdf"><img src="https://img.shields.io/badge/VIEW%20RESUME%20%E2%9F%B6-38BDF8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
-<a href="assets/resume/Rutuja_Dhumal_Resume_1_page_updated-on_2_9_26_wordfile.docx"><img src="https://img.shields.io/badge/DOWNLOAD%20WORD%20VERSION%20%E2%9F%B6-0EA5E9?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>
-
-</div>
 
 ---
 

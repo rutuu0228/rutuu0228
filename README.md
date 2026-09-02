@@ -175,11 +175,19 @@ Students who completed test preparation showed better performance, while Reading
 </td>
 <td width="50%" valign="top">
 
-### ⌁ More Work
+<a href="https://github.com/rutuu0228/Students_Mental_Health_Score_Prediction_sys"><img src="https://raw.githubusercontent.com/rutuu0228/Students_Mental_Health_Score_Prediction_sys/main/Images/03_Correlation_Heatmap_Image/Correlation_Heatmap.png" width="100%" alt="Student Mental Health Score Prediction" /></a>
 
-This portfolio highlights selected projects with the strongest visual and analytical evidence. Additional work is available in the repository list, including ongoing projects that are intentionally kept outside this featured section while they are still under development.
+### 🧠 Student Mental Health Score Prediction
 
-<a href="https://github.com/rutuu0228?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES%20%E2%9F%B6-334155?style=for-the-badge&logoColor=white" /></a>
+**Python · Pandas · Scikit-learn · Machine Learning · EDA**
+
+**Project Focus**  
+End-to-end regression project analyzing student lifestyle and digital-usage patterns to predict a continuous mental health score.
+
+**Current Status**  
+The current baseline Random Forest model achieved **R² = 0.9167**. Hyperparameter tuning is still in progress, so no final tuned performance is claimed.
+
+<a href="https://github.com/rutuu0228/Students_Mental_Health_Score_Prediction_sys"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-38BDF8?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -294,17 +302,5 @@ My focus is to demonstrate:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rutuja%20Dhumal-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutuu0208/)
 [![Email](https://img.shields.io/badge/Email-rutuu0228%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutuu0228@gmail.com)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-0284C7?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/rutujadhumal-3742/)
-[![GitHub](https://img.shields.io/badge/GitHub-rutuu0228-334155?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutuu0228)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **Thanks for visiting my profile!**
-
-*Always learning · Always building · Always improving* 🚀
 
 </div>

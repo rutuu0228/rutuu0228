@@ -293,6 +293,10 @@ Visualization + Business Intelligence
       ↓
 Machine Learning
       ↓
+Agentic AI
+      ↓
+Cloud Computing
+      ↓
 Projects + Internships
       ↓
  Problem Solving
@@ -311,7 +315,7 @@ My focus is to demonstrate:
 - 🔍 Analytical and problem-solving ability
 - 🧹 Practical data-cleaning skills
 - 📊 Strong visualization and storytelling
-- 🤖 Machine-learning fundamentals
+- 🤖 Machine-learning, AI  fundamentals
 - 💼 Understanding of business problems
 - 📝 Clear documentation
 - 🚀 Continuous improvement

@@ -191,6 +191,12 @@ Students who completed test preparation showed better performance, while Reading
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://github.com/rutuu0228?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES%20%E2%9F%B6-334155?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
 ---
 
 ## ✦ Certifications & Credentials

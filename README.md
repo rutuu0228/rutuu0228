@@ -273,7 +273,7 @@ Completed practical work involving **Excel-based analysis, equality-table invest
 - 📐 Statistics & Probability
 - 🤖 Machine Learning
 - 🧩 Feature Engineering & Model Evaluation
-- 🧠 DSA & Problem Solving
+- 🧠 Problem Solving
 - 📊 Power BI & Business Intelligence
 - ☁️ Cloud & AI Fundamentals
 - 🔧 Git & GitHub Best Practices
@@ -295,7 +295,7 @@ Machine Learning
       ↓
 Projects + Internships
       ↓
-DSA + Problem Solving
+ Problem Solving
       ↓
 Industry-Ready Data Professional
 ```

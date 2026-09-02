@@ -80,8 +80,6 @@ I enjoy taking a problem through the complete data workflow:
 
 ## ⟡ Featured Projects
 
-> **Latest project first · Real project evidence · Real screenshots · No fabricated metrics.**
-
 <table>
 <tr>
 <td width="50%" valign="top">

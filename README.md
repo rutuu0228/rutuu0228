@@ -4,7 +4,7 @@
 
 ### 🎓 B.Sc. Data Science Student | 📊 Aspiring Data Scientist & Data Analyst
 
-<a href="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing"><img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing;Cloud+Computing" alt="Data Science, Data Analytics, Machine Learning, Natural Language Processing and Cloud Computing" /></a>
+<a href="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing;Cloud+Computing"><img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing;Cloud+Computing" alt="Data Science, Data Analytics, Machine Learning, Natural Language Processing and Cloud Computing" /></a>
 
 **Python · SQL · Data Analytics · Power BI · Machine Learning · Natural Language Processing · Cloud Computing**
 
@@ -80,10 +80,27 @@ I enjoy taking a problem through the complete data workflow:
 
 ## ⟡ Featured Projects
 
-> **Real project evidence. Real screenshots. No fabricated metrics.**
+> **Latest project first · Real project evidence · Real screenshots · No fabricated metrics.**
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/rutuu0228/Students_Mental_Health_Score_Prediction_sys"><img src="https://raw.githubusercontent.com/rutuu0228/Students_Mental_Health_Score_Prediction_sys/main/Images/03_Correlation_Heatmap_Image/Correlation_Heatmap.png" width="100%" alt="Student Mental Health Score Prediction" /></a>
+
+### 🧠 Student Mental Health Score Prediction
+
+**Python · Pandas · Scikit-learn · Machine Learning · EDA**
+
+**Project Focus**  
+End-to-end regression project analyzing student lifestyle and digital-usage patterns to predict a continuous mental health score.
+
+**Current Status**  
+The current baseline Random Forest model achieved **R² = 0.9167**. Hyperparameter tuning is still in progress, so no final tuned performance is claimed.
+
+<a href="https://github.com/rutuu0228/Students_Mental_Health_Score_Prediction_sys"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-38BDF8?style=for-the-badge&logoColor=white" /></a>
+
+</td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rutuu0228/BlinkIT-Sales-Dashboard"><img src="https://raw.githubusercontent.com/rutuu0228/BlinkIT-Sales-Dashboard/main/BlinkIT%20dashboard%20screenshot.png" width="100%" alt="BlinkIT Sales Dashboard" /></a>
@@ -101,6 +118,8 @@ Sales performance · Product categories · Outlet size/type · Location · Inven
 <a href="https://github.com/rutuu0228/BlinkIT-Sales-Dashboard"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-38BDF8?style=for-the-badge&logoColor=white" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rutuu0228/Ecommerce-Sales-Dashboard"><img src="https://raw.githubusercontent.com/rutuu0228/Ecommerce-Sales-Dashboard/main/Ecommerce%20Sales%20Dashboard%20Screenshot.png" width="100%" alt="E-commerce Sales Dashboard" /></a>
@@ -118,8 +137,6 @@ Revenue · Orders · Quantity · Product performance · Regional trends · Custo
 <a href="https://github.com/rutuu0228/Ecommerce-Sales-Dashboard"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-0EA5E9?style=for-the-badge&logoColor=white" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rutuu0228/HR-Analytics-Dashboard"><img src="https://raw.githubusercontent.com/rutuu0228/HR-Analytics-Dashboard/main/HR%20Analytics%20Dashboard%20Screenshot.png" width="100%" alt="HR Analytics Dashboard" /></a>
@@ -137,6 +154,8 @@ Headcount · Attrition · Departments · Job roles · Demographics · Workforce 
 <a href="https://github.com/rutuu0228/HR-Analytics-Dashboard"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-0284C7?style=for-the-badge&logoColor=white" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rutuu0228/Telco-Churn-Analysis"><img src="https://raw.githubusercontent.com/rutuu0228/Telco-Churn-Analysis/main/all%20plots%202.png" width="100%" alt="Telco Customer Churn Analysis" /></a>
@@ -154,8 +173,6 @@ Identify customer segments and services associated with higher churn so retentio
 <a href="https://github.com/rutuu0228/Telco-Churn-Analysis"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-38BDF8?style=for-the-badge&logoColor=white" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/rutuu0228/Students-Score-Analysis"><img src="https://raw.githubusercontent.com/rutuu0228/Students-Score-Analysis/main/Student%20score%20by%20ParentEducation.png" width="100%" alt="Student Performance Analysis" /></a>
@@ -171,23 +188,6 @@ Explore academic performance through **score distributions, parental education, 
 Students who completed test preparation showed better performance, while Reading and Writing scores showed a strong positive relationship.
 
 <a href="https://github.com/rutuu0228/Students-Score-Analysis"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-0EA5E9?style=for-the-badge&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/rutuu0228/Students_Mental_Health_Score_Prediction_sys"><img src="https://raw.githubusercontent.com/rutuu0228/Students_Mental_Health_Score_Prediction_sys/main/Images/03_Correlation_Heatmap_Image/Correlation_Heatmap.png" width="100%" alt="Student Mental Health Score Prediction" /></a>
-
-### 🧠 Student Mental Health Score Prediction
-
-**Python · Pandas · Scikit-learn · Machine Learning · EDA**
-
-**Project Focus**  
-End-to-end regression project analyzing student lifestyle and digital-usage patterns to predict a continuous mental health score.
-
-**Current Status**  
-The current baseline Random Forest model achieved **R² = 0.9167**. Hyperparameter tuning is still in progress, so no final tuned performance is claimed.
-
-<a href="https://github.com/rutuu0228/Students_Mental_Health_Score_Prediction_sys"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-38BDF8?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 </tr>

@@ -213,6 +213,7 @@ Completed practical work involving **Excel-based analysis, equality-table invest
 - 📁 Organized analysis files, visualizations and certificate evidence
 
 <a href="https://github.com/rutuu0228/Internships/tree/main/Deloitte-Virtual-Internship"><img src="https://img.shields.io/badge/VIEW%20INTERNSHIP%20REPOSITORY%20%E2%9F%B6-38BDF8?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/rutuu0228/Internships/blob/main/Deloitte-Virtual-Internship/Certificate/Deloitte%20Data%20Analytics%20Job%20Simulation%20intership%20certificate.pdf"><img src="https://img.shields.io/badge/VIEW%20CERTIFICATE%20%E2%9F%B6-0EA5E9?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
 
 ---
 
@@ -323,5 +324,9 @@ My focus is to demonstrate:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rutuja%20Dhumal-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutuu0208/)
 [![Email](https://img.shields.io/badge/Email-rutuu0228%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutuu0228@gmail.com)
+
+<br><br>
+
+### ✦ *Always learning. Always growing. Always building.* ✦
 
 </div>

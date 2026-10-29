@@ -99,20 +99,27 @@ I enjoy taking a problem through the complete data workflow:
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/rutuu0228/Students_Mental_Health_Score_Prediction_sys"><img src="https://raw.githubusercontent.com/rutuu0228/Students_Mental_Health_Score_Prediction_sys/main/Images/03_Correlation_Heatmap_Image/Correlation_Heatmap.png" width="100%" alt="Student Mental Health Score Prediction" /></a>
+<a href="https://github.com/rutuu0228/VRITTACARE"><img src="https://raw.githubusercontent.com/rutuu0228/VRITTACARE/main/VRITTACARE_screenshots/Screenshot%202026-10-13%20125018.png" width="100%" alt="VRITTACARE student wellness application" /></a>
 
-### 🧠 Student Mental Health Score Prediction
+### 🧠 VRITTACARE — Student Mental Health Score Prediction
 
-**Python · Pandas · Scikit-learn · Machine Learning · EDA**
+**Python · FastAPI · React · TypeScript · Supabase · scikit-learn · Gemini API**
 
 **Project Focus**  
-End-to-end regression project analyzing student lifestyle and digital-usage patterns to predict a continuous mental health score.
+An end-to-end student wellness application combining a machine-learning regression pipeline, REST API, and interactive frontend. Students can complete a lifestyle assessment, view model-generated score insights, and explore practical wellness suggestions.
 
-**Current Status**  
-The current baseline Random Forest model achieved **R² = 0.9167**. Hyperparameter tuning is still in progress, so no final tuned performance is claimed.
+**Key Features**  
+Guided wellness assessment · ML-powered score prediction · Results dashboard · Personalized insights · Wellness Assistant · Secure sign-in and saved user context
 
-<a href="https://github.com/rutuu0228/Students_Mental_Health_Score_Prediction_sys"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%9F%B6-38BDF8?style=for-the-badge&logoColor=white" /></a>
+**Model Evaluation**  
+The documented baseline Random Forest Regressor achieved **R² = 0.9167** on the evaluated test set. This is a baseline result, not a clinical measure or a guarantee of individual prediction accuracy.
 
+**Responsible Use**  
+Designed for educational self-reflection, not diagnosis or clinical decision-making.
+
+<a href="https://students-mental-health-frontend.onrender.com"><img src="https://img.shields.io/badge/TRY%20LIVE%20APP-06b6d4?style=for-the-badge&logo=render&logoColor=white" /></a>
+<a href="https://github.com/rutuu0228/VRITTACARE"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20%26%20SOURCE-38BDF8?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/rutuu0228/VRITTACARE/tree/main/VRITTACARE_screenshots"><img src="https://img.shields.io/badge/BROWSE%20SCREENSHOTS-334155?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="50%" valign="top">
 
